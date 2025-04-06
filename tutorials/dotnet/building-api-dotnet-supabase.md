@@ -565,7 +565,7 @@ Below is a step-by-step guide for testing the Supabase artist endpoints using Po
 ![Supabase](../../assets/buildingapi/api-twenty.png)
 
 
-## Step 3: Testing DELETE - Remove an Artist
+## Step 4: Testing DELETE - Remove an Artist
 
 1. Create another new request
 2. Set the request type to **DELETE**
