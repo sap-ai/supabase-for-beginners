@@ -1,7 +1,7 @@
 # Supabase for Beginners
 
 Welcome to the **Supabase for Beginners** repository! This collection of tutorials, experiments, and resources is designed to help newcomers understand and navigate Supabase while building fun and functional applications.
-
+This version anybody can make commits to that get accepted.
 ![Supabase Image](assets/supabase-for-beginners.png)
 
 ![Tip Badge](https://img.shields.io/badge/Tip-All%20info%20is%20available%20on%20the%20internet!-blue)
