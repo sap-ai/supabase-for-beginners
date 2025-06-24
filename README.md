@@ -1,6 +1,7 @@
 # Supabase for Beginners
 
-Website<a href=""></a>
+<a href="https://sap-ai.github.io/supabase-for-beginners/">Website</a>
+
 Welcome to the **Supabase for Beginners** repository! This collection of tutorials, experiments, and resources is designed to help newcomers understand and navigate Supabase while building fun and functional applications.
 This version anybody can make commits that get accepted.
 ![Supabase Image](assets/supabase-for-beginners.png)
